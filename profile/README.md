@@ -106,7 +106,7 @@ The goal of this organization is to:
 
 | **Problem** | **Solution** | **Unique Value Proposition** |
 |---|---|---|
-| - Ít ứng dụng tập trung vào luyện khả năng phối hợp hai tay (ambidexterity). <br> - Nhiều app brain training quá phức tạp. <br> - Người dùng cần bài tập đơn giản để rèn luyện tập trung. | - Canvas để vẽ hai hình cùng lúc. <br> - Nhận dạng hình tròn và hình vuông. <br> - Hệ thống chấm điểm theo độ chính xác. <br> - Nhiều level thử thách. | Một bài tập đơn giản giúp rèn luyện khả năng phối hợp hai tay và sự tập trung của não bộ chỉ trong vài phút. |
+| - Ít ứng dụng tập trung vào luyện khả năng phối hợp hai tay (ambidexterity). <br> - Nhiều app brain training quá phức tạp. <br> - Người dùng cần bài tập đơn giản để rèn luyện tập trung. | - Canvas để vẽ hai hình cùng lúc. <br> - Nhận dạng hình tùy cấp độ. <br> - Hệ thống chấm điểm theo độ chính xác. <br> - Nhiều level thử thách. | Một bài tập đơn giản giúp rèn luyện khả năng phối hợp hai tay và sự tập trung của não bộ chỉ trong vài phút. |
 
 | **Customer Segments** | **Channels** | **Advantage** |
 |---|---|---|
