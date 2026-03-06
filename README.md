@@ -43,7 +43,7 @@ Projects in this organization may use:
 - REST APIs
 
 ---
-## 🎯 Purpose & Goals:
+## 🎯 Purpose & Goals
 
 - Improve Agile Workflow.
 - Build a Scalable MVP.
